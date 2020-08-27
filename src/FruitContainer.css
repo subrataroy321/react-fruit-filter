@@ -1,0 +1,24 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fruits {
+  display: flex;
+  justify-content: center;
+}
+
+.list{
+  height: 250px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 30px;
+  border: 1px dashed black;
+}
+
+input{
+  width: 230px;
+  height: 30px;
+}
